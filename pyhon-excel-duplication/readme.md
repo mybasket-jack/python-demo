@@ -17,7 +17,7 @@ python 3.8
 
 
 ## 目录结构
-- excel 文件忠放置待去重的excel文件
+- excel 文件中放置待去重的excel文件
 - result 为解析后的excel文件
 
 ![使用目录](https://upload-images.jianshu.io/upload_images/3944205-d1ef32d1de040fa4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
